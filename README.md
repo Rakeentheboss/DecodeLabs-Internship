@@ -27,11 +27,11 @@ pip install streamlit
 
 ## Running the chatbot
 
-Start the Streamlit app:
+for running the chatbot simply write
+streamlit run Rule_based_chatbot.py
 
-```powershell
-streamlit run "d:\Local Disk D storage 1\Internship\DecodeLabs\Rule_based_chatbot.py"
-```
+You can also check the app directly at
+https://rakeentheboss-decodelabs-internship-rule-based-chatbot-sgqmcp.streamlit.app/
 
 Type queries like:
 
