@@ -16,19 +16,15 @@ A simple rule-based chatbot implemented in Python using regular expressions. The
 
 ## Installation
 
-Create a virtual environment (recommended) and install dependencies:
 
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install --upgrade pip
 pip install streamlit
-```
+
 
 ## Running the chatbot
 
-for running the chatbot simply write
-streamlit run Rule_based_chatbot.py
+for running the chatbot simply run 
+
+streamlit run Rule_based_chatbot.py      in the command prompt
 
 You can also check the app directly at
 https://rakeentheboss-decodelabs-internship-rule-based-chatbot-sgqmcp.streamlit.app/
