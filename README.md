@@ -22,11 +22,9 @@ pip install streamlit
 
 ## Running the chatbot
 
-for running the chatbot simply run 
 
-streamlit run Rule_based_chatbot.py      in the command prompt
 
-You can also check the app directly at
+You can run the app directly at
 https://rakeentheboss-decodelabs-internship-rule-based-chatbot-sgqmcp.streamlit.app/
 
 Type queries like:
@@ -34,6 +32,8 @@ Type queries like:
 - "What is the currency of Japan?"
 - "Exchange rate USD to EUR"
 - "exchange rate of gbp and usd"
+
+**Dont try to run using command prompt as the API keys are not embedded in the code for security reasons**
 
 ## Extending intents
 
